@@ -6,9 +6,9 @@
 
 [Português](#portugues) · [English](#english) · [Projetos / Projects](#projetos) · [GitHub](https://github.com/Willian-1080p?tab=repositories)
 
-![TI](https://img.shields.io/badge/IT-Operations-0d1117?style=for-the-badge&labelColor=1f6feb)
-![Segurança](https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=for-the-badge&labelColor=0891b2)
-![Automação](https://img.shields.io/badge/Build-Automation-0d1117?style=for-the-badge&labelColor=238636)
+[![TI](https://img.shields.io/badge/IT-Operations-0d1117?style=for-the-badge&labelColor=1f6feb)](https://github.com/Willian-1080p?tab=repositories)
+[![Segurança](https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=for-the-badge&labelColor=0891b2)](https://github.com/Willian-1080p?tab=repositories)
+[![Automação](https://img.shields.io/badge/Build-Automation-0d1117?style=for-the-badge&labelColor=238636)](https://github.com/Willian-1080p?tab=repositories)
 
 </div>
 
