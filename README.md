@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Wellington 👋
+<img src="./profile-banner.jpg" alt="Wellington Santos Silva — IT, Cybersecurity, Infrastructure and Automation" width="100%">
 
-**IT Operations · Cybersecurity · Automation · AI-assisted development**
+<br>
 
 [Português](#portugues) · [English](#english) · [Projetos / Projects](#projetos) · [GitHub](https://github.com/Willian-1080p?tab=repositories)
 
